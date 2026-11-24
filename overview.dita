@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="software_installation_overview">
+  <title>Software Installation Overview</title>
+
+  <conbody>
+    <p>
+      This guide provides beginner-friendly instructions for
+      downloading, installing, and verifying software on a
+      Windows computer.
+    </p>
+
+    <p>
+      Before installing software, confirm that your computer
+      meets the application's system requirements and that
+      you have permission to install programs.
+    </p>
+  </conbody>
+</concept>
