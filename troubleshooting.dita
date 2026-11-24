@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="installation_troubleshooting">
+  <title>Troubleshooting Installation Problems</title>
+
+  <conbody>
+    <p>
+      If the software does not install successfully,
+      review the following troubleshooting steps.
+    </p>
+
+    <ul>
+      <li>Confirm that you downloaded the correct software version.</li>
+      <li>Check that sufficient storage space is available.</li>
+      <li>Record the exact error message displayed by the installer.</li>
+      <li>Restart the computer and attempt the installation again when appropriate.</li>
+      <li>Consult the software developer's official support documentation for the specific error.</li>
+    </ul>
+  </conbody>
+</concept>
