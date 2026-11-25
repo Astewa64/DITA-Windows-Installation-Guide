@@ -11,7 +11,7 @@ The guide provides beginner friendly instructions for installing software on Win
 ### Project Structure
 
 - **overview.dita**: Introduces the software installation guide and provides important background information.
-- **installation.dita**: Uses a DITA task structure to provide prerequisites and step-by-step installation instructions.
+
 - **troubleshooting.dita**: Provides troubleshooting guidance for common software installation problems.
 - **windows-installation.ditamap**: Organizes and connects the individual DITA topics into a complete documentation set.
 
