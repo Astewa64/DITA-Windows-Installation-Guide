@@ -1,6 +1,6 @@
 # DITA Windows Installation Guide
 
-## Alim Stewart | Technical Documentation Portfolio
+## Alim Stewart | Independent Learning Project Portfolio
 
 ### About This Project
 
